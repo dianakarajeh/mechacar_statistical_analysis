@@ -1,4 +1,4 @@
-# Mechacar_Statistical_Analysis
+# MechaCar_Statistical_Analysis
 ## Deliverable 1: Linear Regression to Predict MPG
 #### <img width="852" alt="D1" src="https://user-images.githubusercontent.com/99656224/172055009-f7b70a15-236b-4b73-b284-7e9709f44f57.png">
 #### Vehicle weight, spoiler angle, and AWD provided a non-random amount of variance to the mpg values.  The p-value that was given after the regression was generated was a value less than 0, so the slope is not equal to 0.  The linear regression model is a great model to predict the MechaCar prototypes because the R sqaured value was 0.7149. So about 71.49% of the time the predictions from using the model would be accurate.
